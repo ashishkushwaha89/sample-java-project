@@ -5,6 +5,10 @@
 //5th line eclipse
 //6th line eclipse
 //7th line git hub
+
+//8th line git hub
+
+//10th line git hub
 package sample.java.project;
 
 import com.beust.jcommander.JCommander;
@@ -20,6 +24,7 @@ import lombok.Setter;
  * The main class of the application. It contains the main() method,
  * the first method called.
  */
+//class comment github
 @NoArgsConstructor
 @AllArgsConstructor
 public class SampleJavaProject implements Runnable {
