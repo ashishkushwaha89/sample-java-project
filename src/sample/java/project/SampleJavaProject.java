@@ -19,7 +19,7 @@
 //15th line
 // 16 th line added in github
 //17th line added in git hubbbbb
-//18th line added in eclipse
+//18th line eclipse
 package sample.java.project;
 
 import com.beust.jcommander.JCommander;
@@ -98,4 +98,3 @@ public class SampleJavaProject implements Runnable {
         } while (loop);
     }
 }
-//eclipse extra line
