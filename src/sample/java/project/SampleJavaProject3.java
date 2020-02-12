@@ -1,4 +1,4 @@
-
+//1 line eclipse
 package sample.java.project;
 
 import com.beust.jcommander.JCommander;
@@ -76,3 +76,4 @@ public class SampleJavaProject3 implements Runnable {
         } while (loop);
     }
 }
+//1 line eclipse

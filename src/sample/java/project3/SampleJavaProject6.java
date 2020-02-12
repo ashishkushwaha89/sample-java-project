@@ -76,3 +76,4 @@ public class SampleJavaProject4 implements Runnable {
         } while (loop);
     }
 }
+//1 line eclipse
