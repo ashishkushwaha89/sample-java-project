@@ -1,6 +1,6 @@
 //1 line eclipse
 //1 line added github
-//2line eclipse
+//2line github
 package sample.java.project;
 
 import com.beust.jcommander.JCommander;
