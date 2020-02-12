@@ -1,4 +1,4 @@
-//1 line eclipse
+//1 line hub
 package sample.java.project;
 
 import com.beust.jcommander.JCommander;
@@ -9,7 +9,7 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.NonNull;
 import lombok.Setter;
-
+//1 line hub
 /**
  * The main class of the application. It contains the main() method,
  * the first method called.
