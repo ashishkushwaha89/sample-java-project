@@ -1,32 +1,6 @@
-//first comment added
-//Second line added eclipse
-//third line comment git
-//4th line comment git
-//5th line eclipse
-//6th line eclipse
-//7th line git hub
+//first comment added hub
+//Second line added eclipse hub
 
-//8th line git hub
-//9th line eclipse
-//10th line git hub
-
-//11th line eclipse
-//12 th line git hub
-
-//13 th line eclipse
-//14th line git
-
-//15th line
-// 16 th line added in github
-//17th line added in git hubbbbb
-//18th line eclipse
-//19th line hub
-//eclipse 20th line
-//21th line hub
-//22th eclipse
-//23 eclipse
-//24 eclipse
-//23 hub
 package sample.java.project;
 
 import com.beust.jcommander.JCommander;
@@ -38,9 +12,7 @@ import lombok.NoArgsConstructor;
 import lombok.NonNull;
 import lombok.Setter;
 //extra line hub
-//2nd hub
-//3rd hub
-//4th eclipse
+
 
 /**
  * The main class of the application. It contains the main() method,
